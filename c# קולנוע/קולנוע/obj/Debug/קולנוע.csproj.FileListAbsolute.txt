@@ -1,0 +1,13 @@
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\bin\Debug\קולנוע.exe.config
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\bin\Debug\קולנוע.exe
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\bin\Debug\קולנוע.pdb
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.csprojResolveAssemblyReference.cache
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.Form1.resources
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.Properties.Resources.resources
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.csproj.GenerateResource.Cache
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.exe
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.pdb
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.Form2.resources
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.Form3.resources
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.Form4.resources
+C:\Users\mark\Desktop\c# קולנוע\קולנוע\קולנוע\obj\Debug\קולנוע.Form5.resources
